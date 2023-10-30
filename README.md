@@ -2,7 +2,7 @@
 
 This is a simple implementation of the classic Tic-Tac-Toe game using JavaScript, HTML, and CSS. This project serves as a great introduction to web development and JavaScript.
 
-<img src="https://raw.githubusercontent.com/ehaimer/tic-tac-toe/main/app.jpg" alt="App Image" style="width: 600px;" />
+<img src="https://raw.githubusercontent.com/ehaimer/tic-tac-toe/main/app.png" alt="App Image" style="width: 300px;" />
 
 **Key Features:**
 
