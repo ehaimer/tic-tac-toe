@@ -49,6 +49,9 @@ table {
 }
 
 button {
+  display: flex;
+  justify-content: center;
+  align-items: center;
   font-weight: bold;
   border-radius: 8px;
   cursor: pointer;
